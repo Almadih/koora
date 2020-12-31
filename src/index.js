@@ -13,7 +13,7 @@ import store from "./Components/Redux/Store";
 serviceWorker.register();
 
 ReactDOM.render(
-  <Router >
+  <Router basename={window.location.pathname || ''} >
     <ThemeProvider theme={theme}>
       <Provider store={store}>
         <App />
