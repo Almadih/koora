@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/koora/static/css/main.984e5687.chunk.css",
+    "main.js": "/koora/static/js/main.5e0bd323.chunk.js",
+    "main.js.map": "/koora/static/js/main.5e0bd323.chunk.js.map",
+    "runtime-main.js": "/koora/static/js/runtime-main.731f6e75.js",
+    "runtime-main.js.map": "/koora/static/js/runtime-main.731f6e75.js.map",
+    "static/js/2.75f3f6a1.chunk.js": "/koora/static/js/2.75f3f6a1.chunk.js",
+    "static/js/2.75f3f6a1.chunk.js.map": "/koora/static/js/2.75f3f6a1.chunk.js.map",
+    "index.html": "/koora/index.html",
+    "service-worker.js": "/koora/service-worker.js",
+    "service-worker.js.map": "/koora/service-worker.js.map",
+    "static/css/main.984e5687.chunk.css.map": "/koora/static/css/main.984e5687.chunk.css.map",
+    "static/js/2.75f3f6a1.chunk.js.LICENSE.txt": "/koora/static/js/2.75f3f6a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.731f6e75.js",
+    "static/js/2.75f3f6a1.chunk.js",
+    "static/css/main.984e5687.chunk.css",
+    "static/js/main.5e0bd323.chunk.js"
+  ]
+}
